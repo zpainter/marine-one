@@ -1,5 +1,5 @@
-One fish.
-Two fish.
+Uno fish.
+Dos fish.
 Poisson Rouge.
 Azul pescado.
 change the fish
